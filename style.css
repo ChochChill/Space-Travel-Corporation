@@ -1,0 +1,47 @@
+ *{
+	font-family: Roboto;
+}
+/*services section*/
+#Services_offered{
+	margin-top: 30px;
+}
+.services-column{
+	padding: 20px;
+	text-align: justify;
+}
+.services-content{
+	margin-top:50px; 
+}
+/*gallary section*/
+.image-div{
+	padding: 15px;
+	text-align: center;
+}
+.Gallary-content{
+	text-align: justify;
+}
+/*footer section*/
+button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+footer{
+	padding: 20px;
+	background-color: #576675;
+	padding-bottom: 1px
+}
+.footer-link{
+	color: white;
+}
+.footer-link:hover{
+	color: white;
+}
+ul{
+	list-style: none;
+}
+.footer-list{
+	padding: 4px;
+}
+.footer-contact{
+	color: white;
+}
